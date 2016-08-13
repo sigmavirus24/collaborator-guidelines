@@ -3,14 +3,18 @@ Requirements
 
 **tl;dr**:
 
-1. Contribute
+1. Collaborate
 2. Consistently
 3. Constructively
+4. Respectfully
 
-- Must always follow the Code of Conduct and be willing to help enforce it
-- Need to consistently (not daily, or anything, just frequently and over a period of time) help triage issues (See triaging issues below)
-- Need to consistently provide constructive and positive code review for other collaborators
-- Should occasionally submit code of their own
+Collaborators must always follow the Code of Conduct, model the expected behaviour, and be willing to correct others (including other core collaborators) when they violate the CoC.
+
+Collaborators need to consistently (not necessarily daily, weekly, or monthly) help triage issues (See triaging issues below).
+
+Collaborators need to consistently provide constructive code review for other collaborators and should be willing to help new collaborators in a welcoming and inclusive manner.
+
+Collaborators should occasionally submit changes of their own. Changes can include documentation, packaging, tests, and code.
 
 Issue Triage
 ------------
