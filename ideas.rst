@@ -22,6 +22,13 @@ and inclusive manner.
 Collaborators should occasionally submit changes of their own. Changes can
 include documentation, packaging, tests, and code.
 
+Collaborators who follow the Code of Conduct and do the rest of what's
+described *may* be invited to join the team of collaborators who can close
+issues and accept changes. If a collaborator feels they have made significant
+contributions and have been slighted or ignored, they should feel comfortable
+approaching other core collaborators to understand why they have not yet been
+invited.
+
 
 Issue Triage
 ------------
