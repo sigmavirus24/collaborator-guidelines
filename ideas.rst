@@ -8,28 +8,77 @@ Requirements
 3. Constructively
 4. Respectfully
 
-Collaborators must always follow the Code of Conduct, model the expected behaviour, and be willing to correct others (including other core collaborators) when they violate the CoC.
+Collaborators must always follow the Code of Conduct, model the expected
+behaviour, and be willing to correct others (including other core
+collaborators) when they violate the CoC.
 
-Collaborators need to consistently (not necessarily daily, weekly, or monthly) help triage issues (See triaging issues below).
+Collaborators need to consistently (not necessarily daily, weekly, or monthly)
+help triage issues (See triaging issues below).
 
-Collaborators need to consistently provide constructive code review for other collaborators and should be willing to help new collaborators in a welcoming and inclusive manner.
+Collaborators need to consistently provide constructive code review for other
+collaborators and should be willing to help new collaborators in a welcoming
+and inclusive manner.
 
-Collaborators should occasionally submit changes of their own. Changes can include documentation, packaging, tests, and code.
+Collaborators should occasionally submit changes of their own. Changes can
+include documentation, packaging, tests, and code.
+
 
 Issue Triage
 ------------
 
-- Ensuring all information is provided: Sometimes bug reporters don't provide quite enough information to reproduce an issue. If you notice some of the standard information missing, gently asking for them to provide that helps other core collaborators save some time in asking that as well.
-- Reproducing: When all of the information is present, attempting to reproduce the reported issue and confirming it can save core collaborators time as well. If you can not reproduce it, explaining how you tried can sometimes coax more relevant information out of the reporter or just start a conversation about the bug that could lead to its resolution.
-  - Reproducing on different Operating Systems: Sometimes a bug only shows up on Windows or BSD. If you have access to either of those, reproducing their and helping test fixes is **immensely helpful**.
-- Determining severity/workarounds: If you can help find a way to work around the bug until the next release with a fix, this is also helpful to the users. You can also help us determine the priority and severity of an issue this way.
-- Keeping track of issues that have fixes committed: Sometimes core collaborators lose track of issues that have been fixed or even released. Gently reminding us to close them is appreciated :)
+**tl;dr**
 
-Code Review
------------
+1. Read
+2. Reproduce
+3. Reply
+4. Repeat (as necessary)
 
-- Quality code review involves:
+Collaborators with enough time can be extremely helpful to other collaborators
+by *ensuring all the information required for a complete bug report is
+provided*. Bug reporters occasionally ignore or forget pieces of information
+that can help us fix their issue faster. If you notice that information is
+missing, please gently ask them to provide it.
 
-  - Reading the code: Look at the diff on the website and leave *constructive* feedback or just questions inline. For example, issues of personal style or taste should not be brought up. If you do notice, however, that the code does not match the project style you can ask why they diverged from that.
-  - Downloading the code and testing that it actually does what it should
-  - Respectfully asking questions
+Further, those collaborators with time should attempt to *reproduce the
+reported behaviour* if it does sound like a bug. The results of your
+experiment are **always** good to have along with detailed instructions that
+you write down for collaborators who come later. If you're a collaborator
+with access to an operating system like Windows, your help in reproducing
+issues will be greatly valued. Some of the core collaborators do not have
+access to Windows and cannot afford to obtain access.
+
+As most collaborators will likely also be users, they can help determine the
+severity/priority of an issue. In some cases, they may also be able to help
+determine temporary ways to work around an issue until a fix is created and
+released.
+
+
+"Code" Review
+-------------
+
+1. Read
+2. Run
+3. Reply
+4. Repeat (as necessary)
+
+Collaborators should all feel *comfortable and confident* in *reading* diffs
+of submitted changes. Further, collaborators should realize the *value* of
+asking questions respectfully in change requests. If you're curious why the
+other collaborator did something a certain way, or what they're trying to
+accomplish, asking those questions can point out things to other core
+collaborators. *Communication about a change is important* as it can
+potentially cause a new bug (or regress existing behaviour) while trying to
+fix something else. **Collaborators will never scold another collaborator
+for asking a question.**
+
+If the code passes a *visual inspection* and the collaborator has time, they
+should download the change and inspect it locally. If it is a documentation
+change, building and viewing the documentation would be immensely valuable. If
+it is a code change, verifying the program's behaviour does not change
+(possibly beyond tests) is also valuable.
+
+Collaborators reviewing changes should **always** reply that they've reviewed
+changes and explain how they reviewed them as well as their opinion of the
+changes (if they have formed one already). **Words of encouragement to the
+collaborator submitting the change are always welcome.** Collaborators should
+also feel free to use as many emoji as they like.
