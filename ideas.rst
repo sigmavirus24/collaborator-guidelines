@@ -33,7 +33,7 @@ invited.
 Issue Triage
 ------------
 
-**tl;dr**
+**tl;dr**:
 
 1. Read
 2. Reproduce
@@ -62,6 +62,8 @@ released.
 
 "Code" Review
 -------------
+
+**tl;dr**:
 
 1. Read
 2. Run
