@@ -1,5 +1,12 @@
-Requirements
-------------
+Becoming a core collaborator is a hard and arduous process. Most times, it
+requires the existing core collaborator(s) to get to know and deeply trust
+you. They often want to see you exhibit empathy, competence, and an ability
+to collaborate in improving the project. Below are some guidelines that seem
+to be fairly common.
+
+
+Guidelines
+----------
 
 **tl;dr**:
 
@@ -12,7 +19,7 @@ Collaborators must always follow the Code of Conduct, model the expected
 behaviour, and be willing to correct others (including other core
 collaborators) when they violate the CoC.
 
-Collaborators need to consistently (not necessarily daily, weekly, or monthly)
+Collaborators need to consistently (not necessarily daily)
 help triage issues (See triaging issues below).
 
 Collaborators need to consistently provide constructive code review for other
@@ -28,6 +35,14 @@ issues and accept changes. If a collaborator feels they have made significant
 contributions and have been slighted or ignored, they should feel comfortable
 approaching other core collaborators to understand why they have not yet been
 invited.
+
+When we say **consistently** we mean, you should exhibit participation that is
+regular, frequent, and recognizable. Let's create an example, let's say you
+start collaborating on FizzBuzz in March. If you follow the CoC, comment on a
+large number of issues and pull requests for several months, and submit your
+own changes, you will probably have earned sufficient trust and recognition.
+For some maintainers, it may take less time, for others more. This is
+inherently a hard to define or measure thing.
 
 
 Issue Triage
