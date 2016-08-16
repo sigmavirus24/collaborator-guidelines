@@ -1,8 +1,10 @@
 Becoming a core collaborator is a hard and arduous process. Most times, it
 requires the existing core collaborator(s) to get to know and deeply trust
 you. They often want to see you exhibit empathy, competence, and an ability
-to collaborate in improving the project. Below are some guidelines that seem
-to be fairly common.
+to collaborate in improving the project. They often want to see you exhibit
+responsibility and passion for aspects of the project. To become a core
+collaborator, you often have to behave like one. Below are some guidelines
+for becoming and being a core collaborator.
 
 
 Guidelines
